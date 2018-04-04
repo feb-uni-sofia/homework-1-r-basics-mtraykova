@@ -15,7 +15,9 @@ y <- c(1,4)
 
 x-y
 
-#This command substracts y from x. Because x is with length 4 and y with length 2, in order to complete the command properly, y is cloned so as to have length of 4. This way y becomes (1,4,1,4) With this command, the first number os x and y are substracted, then the second ect.
+#This command substracts y from x. Because x is with length 4 and y with length 2,
+## in order to complete the command properly, y is cloned so as to have length of 4.
+## This way y becomes (1,4,1,4) With this command, the first number os x and y are substracted, then the second ect.
 
 #d)
 
